@@ -1,4 +1,4 @@
-<h1> <img src="img/box3.png" width="40"> Đồ Án Cuối Kỳ - Đồ Họa Máy Tính CS105.N21.KHCL</h1>
+<h1> Seminar - Đồ Họa Máy Tính CS105.N21.KHCL</h1>
 
 
 ## I. Các bước để chạy source code
@@ -23,15 +23,12 @@
 
 
 ### Cách 2:
-- Vào trực tiếp [Link GitHub](https://github.com/NhatNguyen2007/Final_Project-CS105.git)
+- Vào trực tiếp [Link GitHub](https://github.com/NhatNguyen2007/Seminar_CS105.N21.git)
 
 ---
-## II. Video demo
-- [Video](https://drive.google.com/drive/folders/1bxhUIWcBDCz-P3ZLer7Fh1PzjJA8dhz3?usp=sharing)
----
-## III. Giảng viên hướng dẫn
+## II. Giảng viên hướng dẫn
 - Cáp Phạm Đình Thăng
 ---
-## IV. Danh sách thành viên
+## III. Danh sách thành viên
 - 20521708 - Nguyễn Minh Nhật
 - 20521621 - Vũ Văn Minh
